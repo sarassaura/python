@@ -3,7 +3,7 @@ Faça um programa que calcule o desvio padrão (σ)
 de um vetor v contendo n elementos reais, 
 em que μ é a média do vetor.
 
-σ = (1/(n−1) * ∑(n−1,i=0) (v[i]−μ)^2)^2
+σ = (1/(n−1) * ∑(n−1,i=0) (v[i]−μ)^2)^(0.5)
 
 Seu programa deve primeiramente solicitar o valor n e 
 depois realizar a leitura dos valores de v. 
