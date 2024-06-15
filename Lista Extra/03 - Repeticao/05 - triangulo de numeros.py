@@ -1,5 +1,6 @@
 '''
-Faça um programa que leia um inteiro n e imprima um "triângulo" com os números. Por exemplo, para n=8, a saída seria:
+Faça um programa que leia um inteiro n e imprima um "triângulo" 
+com os números. Por exemplo, para n=8, a saída seria:
 
 1
 22

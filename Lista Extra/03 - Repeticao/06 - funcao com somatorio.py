@@ -1,5 +1,6 @@
 '''
-Faça um programa que leia um valor inteiro n e então calcule o valor de f( n ), conforme definição a seguir:
+Faça um programa que leia um valor inteiro n e então 
+calcule o valor de f( n ), conforme definição a seguir:
 
 f(n)=∑(n,i=1) ∑(8,j=1) (i + 1)*j
 
